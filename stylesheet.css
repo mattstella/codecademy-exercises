@@ -1,0 +1,65 @@
+#header {
+    border-radius: 50px;
+    z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #0F4431;
+	margin-bottom: 10px;
+	color: yellow;
+	font-family: Baskerville;
+}
+
+#name {
+    margin-left: 15px;
+    float: left;
+}
+#email {
+  
+    float: right;
+    margin-right: 15px;
+    font-family: Baskerville;
+    font-size: 20;
+    color: yellow;
+   
+}
+
+.left {
+    border-radius: 50px;
+    position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 19%;
+	height: 400px;
+	background-color: #7452e1;
+	margin-bottom: 10px;
+}
+
+#section{
+    margin-left: 20px;
+    color: white;
+    font-family: baskerville;
+    font-size: 20;    
+}
+.right {
+    border-radius: 75px;
+    position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 80%;
+	height: 400px;
+	background-color: #2d567e;
+	margin-bottom: 10px;
+}
+#footer {
+    border-radius: 50px;
+    position: relative;
+	height: 50px;
+	background-color: #668284;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+}
